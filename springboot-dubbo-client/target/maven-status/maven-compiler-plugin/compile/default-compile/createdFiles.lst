@@ -1,0 +1,4 @@
+org\spring\springboot\dubbo\CityDubboConsumerService.class
+org\spring\springboot\dubbo\CityDubboService.class
+org\spring\springboot\ClientApplication.class
+org\spring\springboot\domain\City.class

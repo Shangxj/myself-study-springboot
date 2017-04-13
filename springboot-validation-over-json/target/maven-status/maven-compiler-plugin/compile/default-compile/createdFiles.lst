@@ -1,0 +1,9 @@
+org\spring\springboot\result\ErrorInfoInterface.class
+org\spring\springboot\Application.class
+org\spring\springboot\constant\CityErrorInfoEnum.class
+org\spring\springboot\web\City.class
+org\spring\springboot\result\GlobalErrorInfoException.class
+org\spring\springboot\result\GlobalErrorInfoHandler.class
+org\spring\springboot\result\GlobalErrorInfoEnum.class
+org\spring\springboot\result\ResultBody.class
+org\spring\springboot\web\ErrorJsonController.class
